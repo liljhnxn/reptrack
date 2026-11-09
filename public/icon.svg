@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Background rounded rect -->
+  <rect width="64" height="64" rx="16" fill="#0D1412"/>
+  <rect x="1" y="1" width="62" height="62" rx="15" stroke="#23332B" stroke-width="2"/>
+  
+  <!-- Dumbbell Icon in RepTrack Lime Accent -->
+  <g transform="translate(12, 12)">
+    <!-- Bar -->
+    <rect x="10" y="18" width="20" height="4" rx="2" fill="#F1F5F2"/>
+    
+    <!-- Left Inner Collar -->
+    <rect x="8" y="14" width="3" height="12" rx="1.5" fill="#A3E635"/>
+    <!-- Left Big Plate -->
+    <rect x="4" y="10" width="4" height="20" rx="2" fill="#A3E635"/>
+    <!-- Left Outer End -->
+    <rect x="1" y="16" width="3" height="8" rx="1" fill="#85988D"/>
+
+    <!-- Right Inner Collar -->
+    <rect x="29" y="14" width="3" height="12" rx="1.5" fill="#A3E635"/>
+    <!-- Right Big Plate -->
+    <rect x="32" y="10" width="4" height="20" rx="2" fill="#A3E635"/>
+    <!-- Right Outer End -->
+    <rect x="36" y="16" width="3" height="8" rx="1" fill="#85988D"/>
+  </g>
+</svg>
+
